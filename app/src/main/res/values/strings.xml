@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="btn_text">Zählen</string>
+    <string name="text_zähler"></string>
+    <string name="img_text">imageview</string>
+    <string name="btn_restart">Restart</string>
+</resources>
